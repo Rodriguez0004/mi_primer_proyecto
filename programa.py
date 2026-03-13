@@ -1,4 +1,4 @@
-print("Hola, este es mi primer programa subido a GitHub")
+print("Hola, GitHub")
 
 nombre = input("¿Cómo te llamas? ")
 
