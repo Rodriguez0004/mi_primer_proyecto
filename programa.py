@@ -1,5 +1,5 @@
-print("Hola, GitHub")
+nombre = input("Tu nombre: ")
+edad = input("Tu edad: ")
 
-nombre = input("¿Cómo te llamas? ")
-
-print("Bienvenido", nombre)
+print("Hola", nombre)
+print("Tienes", edad, "años")
